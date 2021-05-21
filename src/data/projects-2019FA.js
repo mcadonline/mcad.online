@@ -1,5 +1,13 @@
 const projects2019Fa = [
   {
+    by: "Tim Cronin",
+    title: "Print\Resist\Project",
+    description:
+      "Bringing screen printing and design thinking to marginalized communities.",
+    url: "https://printresistproject.com/",
+    img: "img/magwd/2019FA/Cronin_Tim_PrintResistProject.png",
+  },
+  {
     by: "Briana Gruenewald",
     title: "Bellmont Gives Back",
     description:
