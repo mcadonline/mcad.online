@@ -1,7 +1,7 @@
 const projects2019Fa = [
   {
     by: "Tim Cronin",
-    title: "Print\Resist\Project",
+    title: "Print\\Resist\\Project",
     description:
       "Bringing screen printing and design thinking to marginalized communities.",
     url: "https://printresistproject.com/",
