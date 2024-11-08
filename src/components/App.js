@@ -8,7 +8,7 @@ import "./App.css";
 const App = () => {
   console.log("app.js")
   return (
-  <Router>
+  <Router basename="/mcad.online">
     <Switch>
       <Route path="/" component={MagwdPage} />
       <Route path="/magwd" component={MagwdPage} />
