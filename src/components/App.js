@@ -11,7 +11,7 @@ const App = () => (
     <Switch>
       <Route path="/" component={MagwdPage} />
       <Route path="/magwd" component={MagwdPage} />
-      <Route path="/happy-holidays-2018" component={HolidayPage} />
+      {/* <Route path="/happy-holidays-2018" component={HolidayPage} /> */}
     </Switch>
   </Router>
 );
