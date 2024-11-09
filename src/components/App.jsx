@@ -2,18 +2,18 @@ import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 import MagwdPage from "../pages/MagwdPage";
-import HolidayPage from "../pages/HolidayPage";
 
 import "./App.css";
 
-const App = () => (
-  <Router>
+const App = () => {
+  console.log("app.js")
+  return (
+  <Router basename="/mcad.online">
     <Switch>
-      <Route exact path="/" component={MagwdPage} />
+      <Route path="/" component={MagwdPage} />
       <Route path="/magwd" component={MagwdPage} />
-      <Route path="/happy-holidays-2018" component={HolidayPage} />
     </Switch>
   </Router>
-);
+)};
 
 export default App;
