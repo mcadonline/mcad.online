@@ -11,7 +11,7 @@ import sp2023projects from "./projects-2023SP";
 import su2023projects from "./projects-2023SU";
 import fa2023projects from "./projects-2023FA";
 import sp2024projects from "./projects-2024SP";
-import sp2024projects from "./projects-2024FA";
+import fa2024projects from "./projects-2024FA";
 
 const getLastName = (fullName) => {
   const names = fullName.split(" ");
