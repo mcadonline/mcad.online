@@ -1,6 +1,6 @@
 const projects2024Fa = [
     {
-      title: "Make it accesible",
+      title: "Make it accessible",
       by: "Lauren Pritchard",
       description: " A digital hub of design guidelines, best practices, and resources aimed at helping designers create more accessible work.",
       url: "https://laurpritch07.github.io/make-it-accessible/about.html",
