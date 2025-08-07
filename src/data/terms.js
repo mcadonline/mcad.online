@@ -12,6 +12,8 @@ import su2023projects from "./projects-2023SU";
 import fa2023projects from "./projects-2023FA";
 import sp2024projects from "./projects-2024SP";
 import fa2024projects from "./projects-2024FA";
+import sp2025projects from "./projects-2025SP";
+import su2025projects from "./projects-2025SU";
 
 const getLastName = (fullName) => {
   const names = fullName.split(" ");
@@ -27,7 +29,15 @@ function byLastName(project1, project2) {
 }
 
 const terms = [
-     {
+         {
+    name: "Summer 2025",
+    projects: su2025projects.sort(byLastName),
+  }, 
+  {
+    name: "Spring 2025",
+    projects: sp2025projects.sort(byLastName),
+  }, 
+  {
     name: "Fall 2024",
     projects: fa2024projects.sort(byLastName),
   }, 
