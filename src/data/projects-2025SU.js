@@ -51,7 +51,7 @@ const projects2025Su = [
       {
         by: "Jake Zweibohmer",
         title: "The Three Rivers Trail Wayfinding Signage System",
-        description: "Enhancomg user experience on the Three Rivers Trail in Humboldt County, Iowa through a cohesive, user friendly, and well-designed wayfinding signage system.",
+        description: "Enhancing user experience on the Three Rivers Trail in Humboldt County, Iowa through a cohesive, user friendly, and well-designed wayfinding signage system.",
         url: "https://jakezweibohmer.github.io/capstone2025/",
         img: "img/magwd/2025SU/zweibohmer.png",
       },
