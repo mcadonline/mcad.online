@@ -10,7 +10,7 @@ const projects2025Fa = [
       by: "Amy Freid",
       title: "YourPath",
       description: "Your go-to career guide, guiding you from where you are and where you want to go.",
-      url: "https://https://freidamy.github.io/capstone-page/#about/",
+      url: "https://freidamy.github.io/capstone-page/#about/",
       img: "img/magwd/2025FA/freid.png",
     },
     {
